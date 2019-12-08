@@ -1,1 +1,20 @@
-/* insert you css */
+body {
+	background-color: #242f3e;
+}
+.my-button {
+	background-color: #ffa800;
+	border-color: #dd9000;
+}
+.my-button:hover {
+	background-color: #dd9000;
+	border-color: #dd9000;
+}
+.intro-box {
+	font-family: Arial;
+	color: #fff;
+}
+
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+}
