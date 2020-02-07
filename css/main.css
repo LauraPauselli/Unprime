@@ -1,17 +1,17 @@
 body {
-	background-color: #242f3e;
+	background-color: #ffffff;
 }
 .my-button {
-	background-color: #ffa800;
-	border-color: #dd9000;
+	background-color: #efcb6c;
+	border-color: #efcb6c;
 }
 .my-button:hover {
-	background-color: #dd9000;
-	border-color: #dd9000;
+	background-color: #d39d26;
+	border-color: #d39d26;
 }
-.intro-box {
-	font-family: Arial;
-	color: #fff;
+.description-intro-box {
+	font-family: Myriad Pro;
+	color: #000;
 }
 
 .img-fluid {
